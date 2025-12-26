@@ -53,7 +53,7 @@ This section guides you through compiling and running the keylogger on a Windows
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/warrior123-coder/Keylogger.git
+    git clone https://github.com/TrashCan-Design/Keylogger.git
     cd Keylogger
     ```
 
